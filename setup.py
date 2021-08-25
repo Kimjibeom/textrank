@@ -4,7 +4,7 @@ import textrank
 setup(
     name=textrank.__name__,
     version=textrank.__version__,
-    url='https://github.com/Kimjibeom/Project_Book/',
+    url='https://github.com/Kimjibeom/textrank/',
     author=textrank.__author__,
     author_email='a889997@naver.com',
     description='TextRank based Summarizer (Keyword and key-sentence extractor)',
